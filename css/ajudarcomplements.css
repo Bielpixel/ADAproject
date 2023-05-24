@@ -1,0 +1,89 @@
+h1{
+  color:#fff;
+}
+
+body{
+  background: linear-gradient(to left, #0099CB, #0099CB);
+}
+#logo img{
+  position: absolute;
+width: 180px;
+height: 60PX;
+left: 0%;
+top: 0%;
+}
+body{
+  font-family: "Poppins", sans-serif;
+  background-color: #fafafa;
+}
+
+/*
+.inicio{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+*/
+
+section {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+h1 {
+  text-align: center;
+  width: 100vw;
+}
+
+.row{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position:relative;
+  top:0;
+}
+
+.card{
+  background: #fff;
+  border-radius: 5px;
+  box-shadow:7px 7px 13px 0 rgba(50,50 ,50 , 0.22);
+  padding: 20px;
+  margin: 20px;
+  width: 400px;
+  transition: all 0.7 ease-in-out;
+}
+
+.card:hover{
+  transform: translate(-5px) scale(1.05);
+  cursor: pointer;
+}
+
+.card p {
+  color: #a3a5ae;
+  font-size: 16px;
+}
+
+
+.green{
+  border-left:3px solid #3bb54a;
+}
+.blue{
+  border-left:3px solid #4895ff;
+}
+.red{
+  border-left:3px solid #b3404a;
+}
+.pink{
+  border-left:3px solid #d735ec;
+}
+.row2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h2>span {
+  color: darkgreen;
+}

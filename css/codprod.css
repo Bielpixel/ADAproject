@@ -1,0 +1,21 @@
+/* estilo para o título */
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* estilo para a lista de produtos */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* estilo para os itens da lista */
+li {
+  font-size: 16px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}

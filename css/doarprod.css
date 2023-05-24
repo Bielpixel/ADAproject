@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+*{
+  font-family: 'Poppins', Arial, Helvetica, sans-serif;
+}
+
+#logo img{
+position: absolute;
+width: 180px;
+height: 60PX;
+left: 0%;
+top: 0%;
+}
+
+body {
+  padding: 0;
+  background: #0099CB
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.wave {
+  margin: 0;
+  width: 100%;
+  max-height: 25vh;
+}
+
+svg {
+  margin:0;
+  top: 0;
+}
+
+h1 {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 3em;
+  margin-top: 1.1em; 
+} 
+
+/* Parte dos CARDS */
+
+div-cards {
+  width: 90vw;
+}
+.produto {
+  width: calc(100%/3);
+  height: 500px;
+  background-color: #0090CB;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items:center;
+  padding: 1em;
+}
+  .produto a{
+    color: #0090CB;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-top: 1em;
+  }
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+/* todos os cards */
+.card {
+  max-width: 90%;
+  transform: scale(1);
+  transition: 0.2s ease-in-out;
+}
+
+card:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+h2>span {
+  color: darkgreen;
+}
+
+/* 
+CHAT
+
+*/
+
+
+@media (max-width: 600px) {
+  .div-cards {
+    flex-direction: column;
+    min-width: 95vw;
+    padding: 1.5em;
+    justify-content: center;
+    margin-top: 0.2em
+  }
+
+  .card {
+    margin: 0;
+
+  }
+  
+}
+
+#title{
+  align-items: center;
+  justify-content: top;
+  color:#fff;
+}
