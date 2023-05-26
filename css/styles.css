@@ -31,10 +31,10 @@ left: 0%;
 
 /*Mudando a Logo no modo Mobile*/
 @media (max-width:991px){ /**/
-  .logo {                 /**/
-    width: 100vw;           /**/
-  }                       /**/
-}                         /**/
+.logo {
+left: 50%;
+}
+}
 /****************************/
 
 :root {
@@ -11728,4 +11728,9 @@ body {
 
 .destaque{
 font-weight:bold;
+}
+
+#sobre h4, p{
+
+  text-align: center;
 }
