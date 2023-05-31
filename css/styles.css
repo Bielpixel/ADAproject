@@ -17,7 +17,7 @@
  
 .eita{
   height: 90px;
-  width: 720px;
+  width: 300px;
   background-color: rgba(0, 0, 0, 0);
 }
 
@@ -32,7 +32,7 @@ left: 0%;
 /*Mudando a Logo no modo Mobile*/
 @media (max-width:991px){ /**/
 .logo {
-left: 50%;
+left: 35vw
 }
 }
 /****************************/
@@ -142,7 +142,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
 h1, .h1 {
   font-size: calc(1.375rem + 1.5vw);
 }
-@media (min-width: 720px) {
+@media (min-width: 300px) {
   h1, .h1 {
     font-size: 2.5rem;
   }
@@ -151,7 +151,7 @@ h1, .h1 {
 h2, .h2 {
   font-size: calc(1.325rem + 0.9vw);
 }
-@media (min-width: 720px) {
+@media (min-width: 300px) {
   h2, .h2 {
     font-size: 2rem;
   }
@@ -160,7 +160,7 @@ h2, .h2 {
 h3, .h3 {
   font-size: calc(1.3rem + 0.6vw);
 }
-@media (min-width: 720px) {
+@media (min-width: 300px) {
   h3, .h3 {
     font-size: 1.75rem;
   }
@@ -169,7 +169,7 @@ h3, .h3 {
 h4, .h4 {
   font-size: calc(1.275rem + 0.3vw);
 }
-@media (min-width: 720px) {
+@media (min-width: 300px) {
   h4, .h4 {
     font-size: 1.5rem;
   }
@@ -440,7 +440,7 @@ legend {
   font-size: calc(1.275rem + 0.3vw);
   line-height: inherit;
 }
-@media (min-width: 720px) {
+@media (min-width: 300px) {
   legend {
     font-size: 1.5rem;
   }
@@ -528,7 +528,7 @@ progress {
   font-weight: 300;
   line-height: 1.2;
 }
-@media (min-width: 720px) {
+@media (min-width: 300px) {
   .display-1 {
     font-size: 5rem;
   }
@@ -539,7 +539,7 @@ progress {
   font-weight: 300;
   line-height: 1.2;
 }
-@media (min-width: 720px) {
+@media (min-width: 300px) {
   .display-2 {
     font-size: 4.5rem;
   }
@@ -550,7 +550,7 @@ progress {
   font-weight: 300;
   line-height: 1.2;
 }
-@media (min-width: 720px) {
+@media (min-width: 300px) {
   .display-3 {
     font-size: 4rem;
   }
@@ -561,7 +561,7 @@ progress {
   font-weight: 300;
   line-height: 1.2;
 }
-@media (min-width: 720px) {
+@media (min-width: 300px) {
   .display-4 {
     font-size: 3.5rem;
   }
@@ -572,7 +572,7 @@ progress {
   font-weight: 300;
   line-height: 1.2;
 }
-@media (min-width: 720px) {
+@media (min-width: 300px) {
   .display-5 {
     font-size: 3rem;
   }
@@ -583,7 +583,7 @@ progress {
   font-weight: 300;
   line-height: 1.2;
 }
-@media (min-width: 720px) {
+@media (min-width: 300px) {
   .display-6 {
     font-size: 2.5rem;
   }
@@ -678,7 +678,7 @@ progress {
 }
 @media (min-width: 768px) {
   .container-md, .container-sm, .container {
-    max-width: 720px;
+    max-width: 300px;
   }
 }
 @media (min-width: 992px) {
@@ -686,7 +686,7 @@ progress {
     max-width: 960px;
   }
 }
-@media (min-width: 720px) {
+@media (min-width: 300px) {
   .container-xl, .container-lg, .container-md, .container-sm, .container {
     max-width: 1140px;
   }
@@ -1561,7 +1561,7 @@ progress {
     --bs-gutter-y: 3rem;
   }
 }
-@media (min-width: 720px) {
+@media (min-width: 300px) {
   .col-xl {
     flex: 1 0 0%;
   }
@@ -3781,7 +3781,7 @@ textarea.form-control-lg {
     left: auto;
   }
 }
-@media (min-width: 720px) {
+@media (min-width: 300px) {
   .dropdown-menu-xl-start {
     --bs-position: start;
   }
@@ -4230,7 +4230,7 @@ textarea.form-control-lg {
   border-radius: 0.25rem;
   transition: box-shadow 0.15s ease-in-out;
   position: absolute;
-left: 90%;
+left: 82%;
 }
 @media (prefers-reduced-motion: reduce) {
   .navbar-toggler {
@@ -4420,7 +4420,7 @@ left: 90%;
     overflow-y: visible;
   }
 }
-@media (min-width: 720px) {
+@media (min-width: 300px) {
   .navbar-expand-xl {
     flex-wrap: nowrap;
     justify-content: flex-start;
@@ -5379,7 +5379,7 @@ left: 90%;
     border-left-width: 1px;
   }
 }
-@media (min-width: 720px) {
+@media (min-width: 300px) {
   .list-group-horizontal-xl {
     flex-direction: row;
   }
@@ -5807,7 +5807,7 @@ left: 90%;
     max-width: 800px;
   }
 }
-@media (min-width: 720px) {
+@media (min-width: 300px) {
   .modal-xl {
     max-width: 1140px;
   }
@@ -6769,7 +6769,7 @@ left: 90%;
     z-index: 1020;
   }
 }
-@media (min-width: 720px) {
+@media (min-width: 300px) {
   .sticky-xl-top {
     position: -webkit-sticky;
     position: sticky;
@@ -10131,7 +10131,7 @@ left: 90%;
     text-align: center !important;
   }
 }
-@media (min-width: 720px) {
+@media (min-width: 300px) {
   .float-xl-start {
     float: left !important;
   }
@@ -11433,7 +11433,7 @@ left: 90%;
     text-align: center !important;
   }
 }
-@media (min-width: 720px) {
+@media (min-width: 300px) {
   .fs-1 {
     font-size: 2.5rem !important;
   }
