@@ -19,7 +19,7 @@
 <body>
 
   <h1>Como Ajudar</h1>
-  <a href="../index.html" id="logo"> <img src="../assets/img/logo.png"></a>
+  <a href="../index.php" id="logo"> <img src="../assets/img/logo.png"></a>
 
   <div class="wave">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
@@ -33,7 +33,7 @@
   <div class="row div-cards">
     <div class="col-50">
       <div class="card produto" id="d-prod">
-        <a href="doarprod.html">
+        <a href="doarprod.php">
 
           <h2>Doar Produtos</h2>
           <p>Precisamos de produtos, de modo que nos ajude a manter o abrigo, clique para conferir a lista de produtos

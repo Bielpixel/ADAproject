@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<link rel="alternate" media="only screen and (max-width: 640px)" href="./html/FormA.html">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="./php/FormA.php">
 
 <head>
   <meta charset="utf-8" />
@@ -40,7 +40,7 @@
           <a href="#"><img src="assets/img/logo.svg" class="logo"></a>
           <li class="nav-item"><a class="nav-link" href="#comoAjudar">Como Ajudar</a></li>
           <li class="nav-item"><a class="nav-link" href="#contato">Contato</a></li>
-          <li class="nav-item"><a class="nav-link" href="html/FormA.html">Adoção</a></li>
+          <li class="nav-item"><a class="nav-link" href="php/FormA.php">Adoção</a></li>
         </ul>
       </div>
     </div>
@@ -70,7 +70,7 @@
                     única coisa que será contagiada é a solidariedade, você pode doar a quantia que seu coração mandar e
                     ou colaborar trazendo mantimentos em nossa sede (Fauze Kassim 662, Pereira Barreto/SP)
                   </p>
-                  <a id="Rerror" class="btn btn-primary" href="html/ajudar.html">Formas de Ajudar</a>
+                  <a id="Rerror" class="btn btn-primary" href="php/ajudar.php">Formas de Ajudar</a>
                 </div>
               </div>
               <div class="eita"></div>

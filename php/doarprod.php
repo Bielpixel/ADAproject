@@ -9,10 +9,10 @@
   <link rel="stylesheet" href="../css/styles.css">
   <link rel="stylesheet" href="../css/doarprod.css">
   <link rel="stylesheet" href="..css/doarprod.css">
-  <link href="doarprod.html">
+  <link href="doarprod.php">
   <title>DOAÇÃO DE PRODUTOS</title>
 </head>
-<a href="../index.html" id="logo"> <img src="../assets/img/logo.png"></a>
+<a href="../index.php" id="logo"> <img src="../assets/img/logo.png"></a>
 
 <body>
   <h1 id="title">Doar Produtos</h1>
