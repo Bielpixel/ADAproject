@@ -26,13 +26,13 @@ position: absolute;
 width: 180px;
 height: 60PX;
 left: 0%;
-
 }
 
 /*Mudando a Logo no modo Mobile*/
 @media (max-width:991px){ /**/
 .logo {
-left: 35vw
+left: 35vw;
+transition: .5s;
 }
 }
 /****************************/

@@ -1,5 +1,6 @@
 <link rel="stylesheet" href="../css/styles.css">
 <link rel="stylesheet" href="../css/style2.css">
+<link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
 <a href="../index.php " id="logo"><img src="../assets/img/logo.png" alt=""></a>
 
 <div class="wave">

@@ -7,6 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- Links -->
   <link rel="stylesheet" href="../css/styles.css">
+  <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
   <link rel="stylesheet" href="../css/doarprod.css">
   <link rel="stylesheet" href="..css/doarprod.css">
   <link href="doarprod.php">

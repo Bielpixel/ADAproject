@@ -3,6 +3,7 @@
 <html lang="en">
 <link rel="stylesheet" href="../css/ajudar.css">
 <link rel="stylesheet" href="../css/ajudarcomplements.css">
+<link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
 <!-- Google fonts-->
 <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" />
 <link

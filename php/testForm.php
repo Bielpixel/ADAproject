@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="../css/style2.css">
+<link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
 <button class="navbar-toggler navbar-toggler-right pr-2" type="button" data-bs-toggle="collapse"
   data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
   aria-label="Toggle navigation">

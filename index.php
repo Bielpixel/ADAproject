@@ -1,3 +1,7 @@
+<?php
+include("ap.php")
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <link rel="alternate" media="only screen and (max-width: 640px)" href="./php/FormA.php">
@@ -73,7 +77,6 @@
                   <a id="Rerror" class="btn btn-primary" href="php/ajudar.php">Formas de Ajudar</a>
                 </div>
               </div>
-              <div class="eita"></div>
             </div>
             </section>
             <!-- SOBRE NOS>
